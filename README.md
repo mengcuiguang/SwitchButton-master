@@ -7,7 +7,7 @@
 
 1、布局文件
 
-    <com.meng.switchbutton.ButtonView
+    <com.meng.switchbutton.ButtonView 
         android:layout_width="wrap_content" 
         android:layout_height="wrap_content"/>
     
